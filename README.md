@@ -13,6 +13,12 @@ Based on spinning ASCII Donut: [a1k0n.net/2011/07/20/donut-math](https://www.a1k
 * C
 * Python
 
+## How to run
+
+Python: python3 donut.py
+C: bash ./run.sh
+JS: Open index.html in the browser
+
 ## Reference
 
 * https://gist.github.com/gcr/1075131
