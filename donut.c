@@ -1,3 +1,4 @@
+#include <stdio.h>
 int k;
 double sin() ,cos();
 
